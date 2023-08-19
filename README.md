@@ -2,8 +2,6 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Victoire</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Victoire -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.
