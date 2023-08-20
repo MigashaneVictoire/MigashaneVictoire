@@ -13,8 +13,6 @@
 ✉️ &nbsp;You can shoot me an email at migashanevictoire@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1qoKkZyWjtH_ecs0qRV6Qj9gkb0HAVundef_ykP2DaG0/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/MigashaneVictoire/Database_exercises/main/python.gif" align="right" width="300" />
-
 </div>
  
 <div align="center"> 
@@ -34,6 +32,7 @@
     <img src="https://skillicons.dev/icons?i=python,Pandas,numpy,scikit-learn,SciPy,PyCharm,visual,Jupyter,mysql,r,RStudio,git,github,, " /><br>
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
 </div>
+
 ![black-shield](https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray)
 
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
@@ -44,7 +43,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MigashaneVictoire&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 
 <br/><br/>
 <hr/>
