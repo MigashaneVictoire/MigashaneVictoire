@@ -2,7 +2,7 @@
 
  <hr/>
  
-### 👨🏻‍💻 &nbsp;About Me
+<h2 align="left">👨🏻‍💻 bout Me </h2>
 
 💡 &nbsp;I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.\
 🎓 &nbsp;I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.\
@@ -36,14 +36,21 @@
 </div>
 ![black-shield](https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray)
 
+<h2 align="center">⚡ GitHub Analytics ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=MigashaneVictoire&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=MigashaneVictoire&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MigashaneVictoire&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/MigashaneVictoire">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MigashaneVictoire&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MigashaneVictoire&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<br/><br/>
+<hr/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=F78A3F&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Victoire+Migashane)](https://git.io/typing-svg)
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
