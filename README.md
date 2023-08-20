@@ -29,11 +29,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,Pandas,numpy,scikit-learn,SciPy,PyCharm,visual,Jupyter,mysql,r,RStudio,git,github,, " /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,Pandas,numpy,scikit-learn,SciPy,PyCharm" /><br>
+    <img src="https://skillicons.dev/icons?i=visual,Jupyter,mysql,r,RStudio,git,github"" />
 </div>
 
-![black-shield](https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray)
+<div class="center">
+  <img src="https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray" alt="black-shield">
+</div>
+<!-- ![black-shield](https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray) -->
 
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
 <br>
