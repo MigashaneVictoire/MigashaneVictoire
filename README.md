@@ -1,10 +1,10 @@
-<!-- ![Victoire Migashane](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=F78A3F&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Victoire+Migashane)](https://git.io/typing-svg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Victoire</h2>
-
+ <hr/>
+ 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.
+💡 &nbsp;I am a passionate Data Scientist with a knack for impactful insights and innovative solutions.\
 🎓 &nbsp;I've got a Data Science Certification of Completion from Codeup and a strong foundation in computer programming from personal development.\
 📊 &nbsp;Proficient in Python, SQL, and data visualization, I excel in the end-to-end data science pipeline.\
 🌐 &nbsp;Fluent in English, French, and Swahili, I thrive in diverse collaborative environments.\
@@ -15,16 +15,27 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/MigashaneVictoire/Database_exercises/main/python.gif" align="right" width="300" />
 
-### 🛠 &nbsp;Tools
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:migashanevictoire@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/migashane-victoire/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,Pandas,numpy,scikit-learn,SciPy,PyCharm,visual,Jupyter,mysql,r,RStudio,git,github,, " /><br>
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+</div>
+![black-shield](https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -35,8 +46,4 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/migashane-victoire/"><img src="https://img.shields.io/badge/-migashane-victoire?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=F78A3F&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Victoire+Migashane)](https://git.io/typing-svg)
