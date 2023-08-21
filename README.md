@@ -1,8 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=F78A3F&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Victoire+Migashane)](https://git.io/typing-svg)
-
-![black-shield](https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray)
-
-</div>
  
 <div align="right"> 
   <a href="mailto:migashanevictoire@gmail.com">
@@ -48,6 +44,8 @@
 ![](https://img.shields.io/static/v1?message=Microsoft&logo=microsoft&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=slack&logo=slack&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 
+![black-shield](https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray)
+
 <div style="text-align: center; display: flex; justify-content: center;">
     <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48">
     <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="48" height="48">
@@ -60,7 +58,9 @@
     <img src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" width="48" height="48">
     <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" width="48" height="48">
     <img src="https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png" width="48" height="48">
-    <img src="https://skillicons.dev/icons?i=mysql,r,RStudio,git,github"/>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=r,mysql,git,github"/>
 </div>
 
 <!-- ![black-shield](https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray) -->
