@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1500&color=F78A3F&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Victoire+Migashane)](https://git.io/typing-svg)
 
+![black-shield](https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray)
+
 </div>
  
 <div align="right"> 
@@ -52,13 +54,12 @@
     <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="48" height="48">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png?20210416091439" width="60" height="48">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="70" height="48">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter"  alt="jupyter" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter"  alt="jupyter" width="40" height="40"/>
     <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" width="48" height="48">
     <img src="https://scipy.org/images/logo.svg" width="48" height="48">
     <img src="https://play-lh.googleusercontent.com/yMjUC6LBh7uOCK6wUcIEf5MHZQmSqDPXoInOQLZzw0DWQsPJuvkwSymX2zI4Ok7i_BY" width="48" height="48">
     <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" width="48" height="48">
     <img src="https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png" width="48" height="48">
-    <img src="[https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png](https://www.mlq.ai/content/images/size/w750/format/webp/2023/06/Screenshot-2023-06-15-
     <img src="https://skillicons.dev/icons?i=mysql,r,RStudio,git,github"/>
 </div>
 
