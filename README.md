@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=32&pause=3000&width=435&lines=Victoire+.B+Migashane" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=32&pause=3000&width=435&lines=Victoire+B.+Migashane" alt="Typing SVG" />
     </a>
     <div style="float: right;">
         <a href="mailto:migashanevictoire@gmail.com">
