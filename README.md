@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=32&pause=3000&width=435&lines=Victoire+B.+Migashane" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=32&pause=3000&width=435&lines=Victoire+Migashane" alt="Typing SVG" />
     </a>
     <div style="float: right;">
         <a href="mailto:migashanevictoire@gmail.com">
@@ -23,7 +23,7 @@
 
 <p align="justify">Feel free to shoot me an email at <a href="mailto:migashanevictoire@gmail.com">migashanevictoire@gmail.com</a>. I'll make sure to get back to you as soon as I can.</p>
 
-<p align="justify">For more details about me, you can check out my <a href="https://docs.google.com/document/d/1qoKkZyWjtH_ecs0qRV6Qj9gkb0HAVundef_ykP2DaG0/edit?usp=sharing" target="_blank">RESUME</a>. Let's connect and make an impact together!</p>
+<p align="justify">For more details about me, let's connect and make an impact together!</p>
 
 <hr/>
 
